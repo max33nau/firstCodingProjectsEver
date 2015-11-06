@@ -22,8 +22,8 @@ function startquiz() {
 
                          "Question 3: Have I every fallen on my face when dunking a basketball?" ];
     var NumberOfQuestions = questionAsked.length;
-    var imageCorrect = "<img class=\"correct\" src=\"images/green.jpg\" \\>";
-    var imageIncorrect = "<img class=\"incorrect\" src=\"images/red.jpg\" \\>";
+    var imageCorrect = "<img class=\"correct\" src=\"https://pixabay.com/static/uploads/photo/2013/07/13/10/06/affirmative-156538_640.png\" \\>";
+    var imageIncorrect = "<img class=\"incorrect\" src=\"https://pixabay.com/static/uploads/photo/2013/07/13/10/33/cross-157492_640.png\" \\>";
     var painfulVideo = "<p><iframe id=\"PainfulVideo\" src=\"https://www.youtube.com/embed/bHAMG87YTgY\" "
                        + "frameborder=\"0\" allowfullscreen></iframe></p>";
     var AlertStringCorrectAnswer = [ imageCorrect + "  Correct, I was a pro at making smoothies.",
