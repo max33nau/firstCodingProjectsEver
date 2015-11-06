@@ -61,7 +61,9 @@ body {
  }
 
  #finalalert {
+   float: right;
    text-align: center;
    font-size: 1.5em;
    margin-top: 200px;
+   margin-right: 20px;
  }
